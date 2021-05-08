@@ -7,6 +7,11 @@ description: >
 date: 6 Aug 2019
 image: 
   path: /assets/img/projects/tabletop_games/intothedragonsden.png
+accent_image: 
+  background: url('/assets/img/sidebar-bg-into-the-dragons-den.png') center/cover
+  overlay: false
+accent_color: '#181818'
+theme_color: '#181818'
 ---
 
 {:.lead}
