@@ -1,0 +1,65 @@
+// You can add CSS rules here that will be inlined into each document.
+// .sidebar a {
+//   text-shadow: rgba(0, 0, 0, 0.25) 0.1rem 0.1rem 0.15rem;
+// }
+
+.sidebar a {
+  text-shadow: rgba(0, 0, 0, 0.25) 0.1rem 0.1rem 0.15rem;
+}
+
+.sidebar-bg {
+  background: linear-gradient(225deg, rgba(0,0,0,1) 0%, rgba(100,0,0,1) 80%);
+  background-position: center;
+}
+
+.sidebar-about .avatar {
+	width: 18rem;
+	height: 18rem;
+    border-radius: unset;
+    overflow: hidden;
+    display: inline-block;
+    position: relative;
+    z-index: 1;
+}
+
+.sidebar-about>a.sidebar-title {
+    display: none;
+}
+
+.sidebar-about>p {
+	display: none;
+}
+
+.layout-about img[src*="/assets/img/authors"]{
+	padding: 20px 10px;
+}
+
+.layout-about img[src*="/assets/img/tools"]{
+	padding: 20px;
+}
+
+.layout-about img[src*="/assets/img/ea"]{
+	padding: 20px;
+	width: "100px";
+	height: "47px";
+}
+
+.post-date>.ellipsis{
+    visibility: hidden;
+}
+
+iframe {
+	display: block;
+	width: 100vw;
+	height: 100%;
+	max-width: 100%;
+	margin: 0;
+	padding: 0;
+	border: 0 none;
+	box-sizing: border-box;
+}
+
+.avatar {
+	width: 128px;
+	height: auto;
+}
