@@ -1,6 +1,7 @@
 ---
 layout: welcome
 title:  Welcome
+image: /assets/img/default.png
 cover:  true
 selected_projects:
   - _tabletop_games/IntoTheDragonsDen.md
