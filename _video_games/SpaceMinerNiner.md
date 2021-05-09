@@ -35,3 +35,7 @@ SPACE MINER NINER!
 <iframe width="1903" height="711" src="https://www.youtube.com/embed/0CVAYDli_5o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
+## Get It Soon
+
+**Space Miner Niner** will soon be available for purchase.

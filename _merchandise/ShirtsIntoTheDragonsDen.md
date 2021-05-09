@@ -3,7 +3,7 @@ layout: project
 title: Into The Dragons Den
 caption: Shirts
 description: >
-  Into The Dragons Den \| Match-A-Quest shirts are available to purchase!
+  **Into The Dragons Den \| Match-A-Quest** shirts are available to purchase!
 date: 8 May 2021
 image: 
   path: /assets/img/merchandise/shirts/shirts_IntoTheDragonsDen.png

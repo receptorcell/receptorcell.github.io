@@ -91,14 +91,17 @@ The 4 Dragon tile examples and a Dragon Breath tile example:
   <iframe src="https://www.youtube.com/embed/u2E5rM9Ph7k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div> -->
 
+## Get It Soon
 
-## Get It Now
+**Into The Dragons Den** will soon be available for purchase.
+
+<!-- ## Get It Now
 
 Use the link below to get **Into The Dragons Den**.  
 *Games are produced and shipped by The Game Crafter.*
 
 [![TheGameCrafter]({{ site.baseurl }}/assets/img/tools/LinkTheGameCrafter.png "The Game Crafter")](https://www.thegamecrafter.com){:target="_blank" : .no-mark}
 
-[Into The Dragons Den / 2019 Red](https://www.thegamecrafter.com/games/into-the-dragons-den-red-1){:target="_blank"}
+[Into The Dragons Den / 2019 Red](https://www.thegamecrafter.com/games/into-the-dragons-den-red-1){:target="_blank"} -->
 
  

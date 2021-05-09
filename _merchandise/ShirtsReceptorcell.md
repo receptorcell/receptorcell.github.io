@@ -3,7 +3,7 @@ layout: project
 title: RECEPTORCELL
 caption: Shirts
 description: >
-  RECEPTORCELL shirts are available to purchase!
+  **RECEPTORCELL** shirts are available to purchase!
 date: 6 Aug 2019
 image: 
   path: /assets/img/merchandise/shirts/shirts_Receptorcell.png
