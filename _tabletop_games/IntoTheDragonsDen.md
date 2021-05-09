@@ -4,7 +4,7 @@ title: Into The Dragons Den
 caption: Tabletop Game
 description: >
   **Into The Dragons Den \| Match-A-Quest** is a tile matching / memory game about reclaiming treasure stolen by a group of dragons.
-date: 6 Aug 2019
+date: 8 May 2021
 image: 
   path: /assets/img/projects/tabletop_games/intothedragonsden.png
 accent_image: 
