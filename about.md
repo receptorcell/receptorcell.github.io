@@ -1,6 +1,6 @@
 ---
 layout: about
-image: /assets/img/default.jpg
+image: /assets/img/default.png
 hide_description: true
 redirect_from:
   - /download/
