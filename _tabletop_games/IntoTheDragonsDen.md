@@ -93,7 +93,7 @@ The 4 Dragon tile examples and a Dragon Breath tile example:
 
 ## Get It Soon
 
-**Into The Dragons Den** will soon be available for purchase.
+**Into The Dragons Den** will be available for purchase soon.
 
 <!-- ## Get It Now
 
