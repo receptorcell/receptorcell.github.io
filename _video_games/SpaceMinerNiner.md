@@ -38,4 +38,4 @@ SPACE MINER NINER!
 
 ## Get It Soon
 
-**Space Miner Niner** will soon be available for purchase.
+**Space Miner Niner** will be available for purchase soon.
