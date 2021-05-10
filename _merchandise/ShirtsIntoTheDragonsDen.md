@@ -3,7 +3,7 @@ layout: project
 title: Into The Dragons Den
 caption: Shirts
 description: >
-  **Into The Dragons Den \| Match-A-Quest** shirts are available to purchase!
+  **Into The Dragons Den \| Match-A-Quest** shirts will be available to purchase soon!
 date: 8 May 2021
 image: 
   path: /assets/img/merchandise/shirts/shirts_IntoTheDragonsDen.png
@@ -18,9 +18,9 @@ image:
 
 A collection of **Into The Dragons Den \| Match-A-Quest** shirts for men, women and kids!
 
-## Get One Now
+## Get One Soon
 
-Use the links below to get your very own **Into The Dragons Den \| Match-A-Quest** shirt!
+<!-- Use the links below to get your very own **Into The Dragons Den \| Match-A-Quest** shirt!
 
 
 [![Into The Dragons Den / Dragon Shirt]({{ site.baseurl }}/assets/img/merchandise/shirts/shirtDragonBW.png "Into The Dragons Den / Dragon Shirt")](https://receptorcell.threadless.com/designs/into-the-dragons-den-dragon-b-w/mens/t-shirt/triblend){:target="_blank" : .no-mark}
@@ -45,4 +45,4 @@ Use the links below to get your very own **Into The Dragons Den \| Match-A-Quest
 
 [![Into The Dragons Den / Black Kingdom Shirt]({{ site.baseurl }}/assets/img/merchandise/shirts/shirtKingdomBlackBW.png "Into The Dragons Den / Black Kingdom Shirt")](https://receptorcell.threadless.com/designs/into-the-dragons-den-black-kingdom-b-w/mens/t-shirt/triblend){:target="_blank" : .no-mark}
 
-[**Into The Dragons Den / Black Kingdom Shirt** (Mens\|Womens\|Kids)](https://receptorcell.threadless.com/designs/into-the-dragons-den-black-kingdom-b-w/mens/t-shirt/triblend){:target="_blank"}
+[**Into The Dragons Den / Black Kingdom Shirt** (Mens\|Womens\|Kids)](https://receptorcell.threadless.com/designs/into-the-dragons-den-black-kingdom-b-w/mens/t-shirt/triblend){:target="_blank"} -->
