@@ -68,9 +68,9 @@ menu:
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
   - title:             COOKIES POLICY
-    url:               /COOKIES-POLICY/
+    url:               /cookies-policy/
   - title:             PRIVACY POLICY
-    url:               /PRIVACY-POLICY/
+    url:               /privacy-policy/
   - title:             LICENSE
     url:               /LICENSE/
   - title:             NOTICE
