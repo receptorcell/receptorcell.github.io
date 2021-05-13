@@ -271,7 +271,7 @@ DEPENDENCIES
   wdm
 
 RUBY VERSION
-   ruby 2.7.2p137
+   ruby 2.7.2
 
 BUNDLED WITH
    2.2.5
