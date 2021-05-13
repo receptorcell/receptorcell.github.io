@@ -67,6 +67,10 @@ menu:
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
+  - title:             COOKIES POLICY
+    url:               /COOKIES-POLICY/
+  - title:             PRIVACY POLICY
+    url:               /PRIVACY-POLICY/
   - title:             LICENSE
     url:               /LICENSE/
   - title:             NOTICE
@@ -179,7 +183,7 @@ kramdown:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-# google_analytics:      UA-196526440-1
+google_analytics:      UA-196526440-1
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
