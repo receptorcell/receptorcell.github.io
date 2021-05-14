@@ -5,7 +5,7 @@ sitemap: false
 
 # PRIVACY POLICY
 
-Last updated May 13, 2021
+Last updated May 14, 2021
 
 * this list will be replaced by the toc
 {:toc .large-only}
@@ -167,13 +167,13 @@ You should be aware that getting a new computer, installing a new browser, upgra
 
 The Site and our mobile applications may contain links to third-party websites and applications of interest, including advertisements and external services, that are not affiliated with us. Once you have used these links to leave the Site or our mobile applications, any information you provide to these third parties is not covered by this Privacy Policy, and we cannot guarantee the safety and privacy of your information. Before visiting and providing any information to any third-party websites, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that website, and should take those steps necessary to, in your discretion, protect the privacy of your information. We are not responsible for the content or privacy and security practices and policies of any third parties, including other sites, services or applications that may be linked to or from the Site or our mobile applications.
 
-## SECURITY OF YOUR INFORMATION
+<!-- ## SECURITY OF YOUR INFORMATION
 
-We use administrative, technical, and physical security measures to help protect your personal information.  While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse.  Any information disclosed online is vulnerable to interception and misuse by unauthorized parties. Therefore, we cannot guarantee complete security if you provide personal information.
+We use administrative, technical, and physical security measures to help protect your personal information.  While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse.  Any information disclosed online is vulnerable to interception and misuse by unauthorized parties. Therefore, we cannot guarantee complete security if you provide personal information. -->
 
-## POLICY FOR CHILDREN
+<!-- ## POLICY FOR CHILDREN
 
-We do not knowingly solicit information from or market to children under the age of 13. If you become aware of any data we have collected from children under age 13, please contact us using the contact information provided below. 
+We do not knowingly solicit information from or market to children under the age of 13. If you become aware of any data we have collected from children under age 13, please contact us using the contact information provided below.  -->
 
 <!-- ## CONTROLS FOR DO-NOT-TRACK FEATURES  
 
@@ -181,23 +181,24 @@ Most web browsers and some mobile operating systems and our mobile applications 
 
 ## OPTIONS REGARDING YOUR INFORMATION
 
-**Account Information**
+<!-- **Account Information**
 
 You may at any time review or change the information in your account or terminate your account by:
 
     • Logging into your account settings and updating your account
     • Contacting us using the contact information provided below
 
-Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements.
+Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements. -->
 
 **Emails and Communications**
 
 If you no longer wish to receive correspondence, emails, or other communications from us, you may opt-out by:
 
-    • Noting your preferences at the time you register your account with the Site or our mobile applications
-    • Logging into your account settings and updating your preferences.
+<!-- • Noting your preferences at the time you register your account with the Site or our mobile applications
+• Logging into your account settings and updating your preferences. -->
+
     • Contacting us using the contact information provided below
-    
+
 If you no longer wish to receive correspondence, emails, or other communications from third parties, you are responsible for contacting the third party directly. 
 
 ## CALIFORNIA PRIVACY RIGHTS
