@@ -73,7 +73,27 @@ The 4 Dragon tile examples and a Dragon Breath tile example:
 
 ## See It In Action
 
-![image 1]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_01.png){:.lead width="1920" height="1080" loading="lazy"}
+![image 1]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_MatchAQuest.png){:.lead width="1920" height="1080" loading="lazy"}
+
+![image 2]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_DragonsDen.png){:.lead width="1920" height="1080" loading="lazy"}
+
+![image 3]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_SecretQuests.png){:.lead width="1920" height="1080" loading="lazy"}
+
+![image 4]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_Villagers.png){:.lead width="1920" height="1080" loading="lazy"}
+
+![image 5]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_FoundDragons.png){:.lead width="1920" height="1080" loading="lazy"}
+
+![image 6]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_CoinsEarned.png){:.lead width="1920" height="1080" loading="lazy"}
+
+![image 7]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_InstructionBooklet.png){:.lead width="1920" height="1080" loading="lazy"}
+
+<!-- ![image 8]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_SetupQuestTiles.png){:.lead width="1920" height="1080" loading="lazy"}
+
+![image 9]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_SetupDragonTokens.png){:.lead width="1920" height="1080" loading="lazy"}
+
+![image 10]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_SetupDragonDenTiles.png){:.lead width="1920" height="1080" loading="lazy"} -->
+
+<!-- ![image 1]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_01.png){:.lead width="1920" height="1080" loading="lazy"}
 
 ![image 2]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_02.png){:.lead width="1920" height="1080" loading="lazy"}
 
@@ -85,7 +105,7 @@ The 4 Dragon tile examples and a Dragon Breath tile example:
 
 ![image 6]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_06.png){:.lead width="1920" height="1080" loading="lazy"}
 
-![image 7]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_07.png){:.lead width="1920" height="1080" loading="lazy"}
+![image 7]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_07.png){:.lead width="1920" height="1080" loading="lazy"} -->
 
 <!-- <div class="lead aspect-ratio sixteen-nine">        
   <iframe src="https://www.youtube.com/embed/u2E5rM9Ph7k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -93,15 +113,16 @@ The 4 Dragon tile examples and a Dragon Breath tile example:
 
 ## Get It Soon
 
-**Into The Dragons Den** will be available for purchase soon.
+**Into The Dragons Den \| Match-A-Quest** will be available for purchase soon.
 
 <!-- ## Get It Now
 
-Use the link below to get **Into The Dragons Den**.  
-*Games are produced and shipped by The Game Crafter.*
+Use the link below to get **Into The Dragons Den \| Match-A-Quest**.  
 
-[![TheGameCrafter]({{ site.baseurl }}/assets/img/tools/LinkTheGameCrafter.png "The Game Crafter")](https://www.thegamecrafter.com){:target="_blank" : .no-mark}
+[Into The Dragons Den / 2019 Red](https://www.thegamecrafter.com/games/into-the-dragons-den-red-1){:target="_blank"}
 
-[Into The Dragons Den / 2019 Red](https://www.thegamecrafter.com/games/into-the-dragons-den-red-1){:target="_blank"} -->
+## &nbsp;
 
- 
+*Games are produced and shipped by [The Game Crafter](https://www.thegamecrafter.com){:target="_blank"}*
+
+[![The Game Crafter]({{ site.baseurl }}/assets/img/tools/thegamecrafter.png "The Game Crafter")](https://www.thegamecrafter.com){:target="_blank" : .no-mark} -->
