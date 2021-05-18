@@ -28,8 +28,8 @@ Some of the tools and services we like to use.
 [![Inkscape]({{ site.baseurl }}/assets/img/tools/Inkscape.png "Inkscape")](https://inkscape.org/){:target="_blank" : .no-mark}
 [![Audacity]({{ site.baseurl }}/assets/img/tools/Audacity.png "Audacity")](https://www.audacityteam.org/){:target="_blank" : .no-mark}
 [![DaVinciResolve]({{ site.baseurl }}/assets/img/tools/DaVinciResolve.png "DaVinci Resolve")](https://www.blackmagicdesign.com/products/davinciresolve/){:target="_blank" : .no-mark}
-[![TheGameCrafter]({{ site.baseurl }}/assets/img/tools/TheGameCrafter.png "The Game Crafter")](https://www.thegamecrafter.com/){:target="_blank" : .no-mark}
 ![PencilPaper]({{ site.baseurl }}/assets/img/tools/PencilPaper.png "Pencil & Paper")
+[![TheGameCrafter]({{ site.baseurl }}/assets/img/tools/TheGameCrafter.png "The Game Crafter")](https://www.thegamecrafter.com/){:target="_blank" : .no-mark}
 [![threadless]({{ site.baseurl }}/assets/img/tools/threadless.png "threadless")](https://www.threadless.com/){:target="_blank" : .no-mark}
 
 # Contact
