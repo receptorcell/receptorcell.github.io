@@ -5,7 +5,7 @@ sitemap: false
 
 # PRIVACY POLICY
 
-Last updated May 14, 2021
+Last updated May 18, 2021
 
 * this list will be replaced by the toc
 {:toc .large-only}

@@ -5,7 +5,7 @@ sitemap: false
 
 # COOKIES POLICY
 
-Last updated May 14, 2021
+Last updated May 18, 2021
 
 * this list will be replaced by the toc
 {:toc .large-only}
@@ -14,11 +14,11 @@ Last updated May 14, 2021
 
 RECEPTORCELL, LLC (“we” or “us” or “our”) may use cookies, web beacons, tracking pixels, and other tracking technologies when you visit our website receptorcell.com, including any other media form, media channel, mobile website, or mobile application related or connected thereto (collectively, the “Site”) to help customize the Site and improve your experience. 
 
-We reserve the right to make changes to this Cookie Policy at any time and for any reason. We will alert you about any changes by updating the “Last Updated” date of this Cookie Policy. Any changes or modifications will be effective immediately upon posting the updated Cookie Policy on the Site, and you waive the right to receive specific notice of each such change or modification. 
+We reserve the right to make changes to this Cookies Policy at any time and for any reason. We will alert you about any changes by updating the “Last Updated” date of this Cookies Policy. Any changes or modifications will be effective immediately upon posting the updated Cookies Policy on the Site, and you waive the right to receive specific notice of each such change or modification. 
 
-You are encouraged to periodically review this Cookie Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Cookie Policy by your continued use of the Site after the date such revised Cookie Policy is posted. 
+You are encouraged to periodically review this Cookies Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Cookies Policy by your continued use of the Site after the date such revised Cookies Policy is posted. 
 
-This cookie policy was created using Termly.
+This cookies policy was created using Termly.
 
 ## USE OF COOKIES
 
@@ -70,11 +70,11 @@ In addition to cookies, we may use web beacons, pixel tags, and other tracking t
 
 ## PRIVACY POLICY
 
-For more information about how we use information collected by cookies and other tracking technologies, please refer to our <a href="{{ site.baseurl }}/privacy-policy/">Privacy Policy</a> posted on the Site. This Cookie Policy is part of and is incorporated into our Privacy Policy. By using the Site, you agree to be bound by this Cookie Policy and our Privacy Policy.
+For more information about how we use information collected by cookies and other tracking technologies, please refer to our <a href="{{ site.baseurl }}/privacy-policy/">Privacy Policy</a> posted on the Site. This Cookies Policy is part of and is incorporated into our Privacy Policy. By using the Site, you agree to be bound by this Cookies Policy and our Privacy Policy.
 
 ## CONTACT US
 
-If you have questions or comments about this Cookie Policy, please contact us at:
+If you have questions or comments about this Cookies Policy, please contact us at:
 
 RECEPTORCELL, LLC
 
