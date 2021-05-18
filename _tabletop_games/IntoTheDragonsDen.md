@@ -93,7 +93,7 @@ The 4 Dragon tile examples and a Dragon Breath tile example:
 
 ![image 10]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_SetupDragonDenTiles.png){:.lead width="960" height="540" loading="lazy"}
 
-![image 11]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_SetupAndBeginningAround.png){:.lead width="960" height="540" loading="lazy"}
+![image 11]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_SetupAndBeginningARound.png){:.lead width="960" height="540" loading="lazy"}
 
 ![image 12]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_TheRound.png){:.lead width="960" height="540" loading="lazy"}
 
