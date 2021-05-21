@@ -73,37 +73,37 @@ The 4 Dragon tile examples and a Dragon Breath tile example:
 
 ## See It In Action
 
-![image 1]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_MatchAQuest.png){:.lead width="960" height="540" loading="lazy"}
+![image 1]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/01-IntoTheDragonsDen_MatchAQuest.png){:.lead width="960" height="540" loading="lazy"}
 
-![image 2]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_DragonsDen.png){:.lead width="960" height="540" loading="lazy"}
+![image 2]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/02-IntoTheDragonsDen_DragonsDen.png){:.lead width="960" height="540" loading="lazy"}
 
-![image 3]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_SecretQuests.png){:.lead width="960" height="540" loading="lazy"}
+![image 3]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/03-IntoTheDragonsDen_SecretQuests.png){:.lead width="960" height="540" loading="lazy"}
 
-![image 4]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_Villagers.png){:.lead width="960" height="540" loading="lazy"}
+![image 4]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/04-IntoTheDragonsDen_Villagers.png){:.lead width="960" height="540" loading="lazy"}
 
-![image 5]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_FoundDragons.png){:.lead width="960" height="540" loading="lazy"}
+![image 5]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/05-IntoTheDragonsDen_FoundDragons.png){:.lead width="960" height="540" loading="lazy"}
 
-![image 6]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_CoinsEarned.png){:.lead width="960" height="540" loading="lazy"}
+![image 6]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/06-IntoTheDragonsDen_CoinsEarned.png){:.lead width="960" height="540" loading="lazy"}
 
-![image 7]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_InstructionBooklet.png){:.lead width="960" height="540" loading="lazy"}
+![image 7]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/07-IntoTheDragonsDen_InstructionBooklet.png){:.lead width="960" height="540" loading="lazy"}
 
-![image 8]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_SetupQuestTiles.png){:.lead width="960" height="540" loading="lazy"}
+![image 8]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/08-IntoTheDragonsDen_SetupQuestTiles.png){:.lead width="960" height="540" loading="lazy"}
 
-![image 9]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_SetupDragonTokens.png){:.lead width="1920" height="540" loading="lazy"}
+![image 9]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/09-IntoTheDragonsDen_SetupDragonTokens.png){:.lead width="1920" height="540" loading="lazy"}
 
-![image 10]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_SetupDragonDenTiles.png){:.lead width="960" height="540" loading="lazy"}
+![image 10]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/10-IntoTheDragonsDen_SetupDragonDenTiles.png){:.lead width="960" height="540" loading="lazy"}
 
-![image 11]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_SetupAndBeginningARound.png){:.lead width="960" height="540" loading="lazy"}
+![image 11]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/11-IntoTheDragonsDen_SetupAndBeginningARound.png){:.lead width="960" height="540" loading="lazy"}
 
-![image 12]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_TheRound.png){:.lead width="960" height="540" loading="lazy"}
+![image 12]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/12-IntoTheDragonsDen_TheRound.png){:.lead width="960" height="540" loading="lazy"}
 
-![image 13]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_KingdomGem.png){:.lead width="960" height="540" loading="lazy"}
+![image 13]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/13-IntoTheDragonsDen_KingdomGem.png){:.lead width="960" height="540" loading="lazy"}
 
-![image 14]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_DragonsFound.png){:.lead width="960" height="540" loading="lazy"}
+![image 14]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/14-IntoTheDragonsDen_DragonsFound.png){:.lead width="960" height="540" loading="lazy"}
 
-![image 15]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_ScoringTheRound.png){:.lead width="960" height="540" loading="lazy"}
+![image 15]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/15-IntoTheDragonsDen_ScoringTheRound.png){:.lead width="960" height="540" loading="lazy"}
 
-![image 16]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/IntoTheDragonsDen_GameOver.png){:.lead width="960" height="540" loading="lazy"}
+![image 16]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/16-IntoTheDragonsDen_GameOver.png){:.lead width="960" height="540" loading="lazy"}
 
 ## Get It Soon
 
