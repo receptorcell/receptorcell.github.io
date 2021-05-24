@@ -3,7 +3,7 @@ layout: project
 title: Space Miner Niner
 caption: Video Game
 description: >
-  **Space Miner Niner** is an asteroids type video game.
+  **Space Miner Niner** is an Asteroids inspired video game.
 date: 5 May 2021
 image: 
   path: /assets/img/projects/video_games/SpaceMinerNinerStill_00.png
@@ -16,7 +16,7 @@ image:
 
 ## Description
 
-**Space Miner Niner** is an asteroids type video game.  
+**Space Miner Niner** is an Asteroids inspired video game.  
 
 Play as a space miner trying to collect minerals to earn money, upgrade ships and visit different planets.
 
