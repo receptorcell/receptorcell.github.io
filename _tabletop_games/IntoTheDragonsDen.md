@@ -134,7 +134,7 @@ Use the link below to get **Into The Dragons Den \| Match-A-Quest**.
 
 *Games are produced and shipped by [The Game Crafter](https://www.thegamecrafter.com){:target="_blank"}*
 
-[![The Game Crafter]({{ site.baseurl }}/assets/img/tools/thegamecrafter.png "The Game Crafter")](https://www.thegamecrafter.com){:target="_blank" : .no-mark}
+[![The Game Crafter]({{ site.baseurl }}/assets/img/tools/TheGameCrafter.png "The Game Crafter")](https://www.thegamecrafter.com){:target="_blank" : .no-mark}
 
 <p align="center">
   <img width="15" height="14" src="{{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/TributeHeart.png">
