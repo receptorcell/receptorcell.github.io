@@ -121,7 +121,7 @@ The 4 Dragon tile examples and a Dragon Breath tile example:
 
 Use the link below for more detailed instructions on how to play.
 
-[![Red Instruction Booklet](https://www.dropbox.com/s/c2wk0z4zzp0zf5z/InstructionBooklet_RED_gamecrafter.png?raw=1)](https://www.dropbox.com/s/t0bgr23vd9l4jam/InstructionBooklet_2019_RED.pdf?raw=1){:target="_blank" : .no-mark}
+[![Red Instruction Booklet](https://www.dropbox.com/s/ltio55geu7to9b1/BookletCover_RED_small.png?raw=1)](https://www.dropbox.com/s/t0bgr23vd9l4jam/InstructionBooklet_2019_RED.pdf?raw=1){:target="_blank" : .no-mark}
 &nbsp; **Instruction Booklet (English PDF)** | [Download](https://www.dropbox.com/s/t0bgr23vd9l4jam/InstructionBooklet_2019_RED.pdf?raw=1){:target="_blank"}
 
 ## Get It Now
