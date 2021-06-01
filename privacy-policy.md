@@ -5,7 +5,7 @@ sitemap: false
 
 # PRIVACY POLICY
 
-Last updated May 18, 2021
+Last updated May 31, 2021
 
 * this list will be replaced by the toc
 {:toc .large-only}
@@ -34,7 +34,7 @@ Information our servers automatically collect when you access the Site, such as 
 
 **Financial Data**
 
-Financial information, such as data related to your payment method (e.g. valid credit card number, card brand, expiration date) that we may collect when you purchase, order, return, exchange, or request information about our services from the Site or our mobile applications. We store only very limited, if any, financial information that we collect. Otherwise, all financial information is stored by our payment processor, Paypal, and you are encouraged to review their privacy policy and contact them directly for responses to your questions.
+We never collect any financial information.  All financial information is stored by our payment processor, Paypal, via purchases made online through services such as The Game Crafter, itch.io and Threadless.  You are encouraged to review their privacy policy and contact them directly for responses to your questions.
 
 **Facebook Permissions**
 
