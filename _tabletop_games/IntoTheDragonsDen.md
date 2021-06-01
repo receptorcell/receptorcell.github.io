@@ -136,7 +136,7 @@ Use the link below for more detailed instructions on how to play.
 
 Use the link below to get **Into The Dragons Den \| Match-A-Quest**.  
 
-[Into The Dragons Den / 2019 Red](https://www.thegamecrafter.com/games/into-the-dragons-den-red-1){:target="_blank"}
+[![Into The Dragons Den / 2019 Red]({{ site.baseurl }}/assets/img/projects/tabletop_games/into_the_dragons_den/SingleToken_red.png)](https://www.thegamecrafter.com/games/into-the-dragons-den-red-1){:target="_blank" : .no-mark} &nbsp; [Into The Dragons Den / 2019 Red](https://www.thegamecrafter.com/games/into-the-dragons-den-red-1){:target="_blank"}
 
 &nbsp;
 
