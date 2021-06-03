@@ -3,7 +3,7 @@
 # Change `author1` to your shortname.
 jeffrey:
   name:              Jeffrey
-  email:             <mail@domain.tld>
+  # email:             <mail@domain.tld>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -22,7 +22,7 @@ jeffrey:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         receptorcell
+    # twitter:         receptorcell
     # github:          <username>
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
@@ -65,7 +65,7 @@ jeffrey:
 # Another author (optional)
 jackie:
   name:              Jackie
-  email:             <mail@domain.tld>
+  # email:             <mail@domain.tld>
   about:             |
     **Jackie** enjoys creating mobile apps, video games and tabletop games.
   picture:
@@ -79,7 +79,7 @@ jackie:
 
 olivia:
   name:              Olivia
-  email:             <mail@domain.tld>
+  # email:             <mail@domain.tld>
   about:             |
     **Olivia** enjoys creating mobile apps, video games and tabletop games.
   picture:
@@ -93,7 +93,7 @@ olivia:
 
 natalie:
   name:              Natalie
-  email:             <mail@domain.tld>
+  # email:             <mail@domain.tld>
   about:             |
     **Natalie** enjoys creating mobile apps, video games and tabletop games.
   picture:
